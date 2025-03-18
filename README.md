@@ -1,5 +1,3 @@
-# Customer-Purchase-Behavior-Churn-Analysis-Dashboard
-
 # Customer Purchase Behavior & Churn Analysis Dashboard
 
 This project is an interactive dashboard built using [Streamlit](https://streamlit.io/) that analyzes customer purchase behavior and churn patterns. The dashboard helps you monitor customer spending, flag at-risk customers, and understand why customers churn using various visualizations and metrics.
